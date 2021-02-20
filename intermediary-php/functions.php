@@ -6,6 +6,8 @@
         echo '<h3>I\'m </h3>'.$age.' years old';
     }
 
-    showName('Gabriela', 20)
+    // showName('Gabriela', 20);
+
+
 
 ?>
